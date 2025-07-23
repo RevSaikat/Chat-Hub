@@ -6,7 +6,7 @@ A blockchain chat app is a decentralized messaging platform that leverages block
 |---|---|---|
   
 ## UI    
-<img src="img/demo.png"/>
+<img src="img/demo.PNG"/>
 
 ## Deploy
 You first need to run Ganache on localhost:7545, install metamask in the browser, install dependencies and finally fire the react server.
