@@ -1,5 +1,5 @@
 # Chat Hub
-Simple Ethereum blockchain app for messaging and ether sending between Ganache addresses.
+A blockchain chat app is a decentralized messaging platform that leverages blockchain technology to provide secure, private, and tamper-proof communication. Unlike traditional chat applications that rely on centralized servers, blockchain chat apps store messages and user data on a distributed ledger, ensuring data integrity, end-to-end encryption, and user control over their information.
 
 ## Stack
 | <img src="img/truffle.png" width="50%"> | <img src="img/metamask.png" width="50%">   | <img src="img/ganache.png" width="50%"> |
@@ -18,8 +18,9 @@ set NODE_OPTIONS=--openssl-legacy-provider && npm start
 ```
 
 ## Features
-* connect to all the available wallet addresses available in Ganache
-* send messages between these addresses
-* store all the messages in the smart contract in order to fetch them back when the page is reloaded
-* monitor the state of the blockchain in real time when the transactions are executed
-* send ethereum between the addresses
+* End-to-end encryption for privacy and security.
+* Decentralized architecture to eliminate single points of failure.
+* A versatile mode of communication through Smart Contacts.
+* Identity verification through cryptographic keys.
+* Tracking token-based incentives or microtransactions for user engagement or premium services.
+
